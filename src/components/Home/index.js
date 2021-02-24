@@ -55,7 +55,7 @@ class Home extends Component {
 
 
         <div className="left-box d-none d-md-block">
-          <a href="str8jacketphotography/#/photography"><div className="left-photo-box">
+          <a href="/#/photography"><div className="left-photo-box">
           <p className="photo-text">
           PHOTOGRAPHY
           </p>
@@ -64,7 +64,7 @@ class Home extends Component {
         </div>
 
         <div className="right-box d-none d-md-block">
-          <a href="str8jacketphotography/#/videography"><div className="right-photo-box">
+          <a href="/#/videography"><div className="right-photo-box">
           <p className="video-text">
           VIDEOGRAPHY
           </p>
