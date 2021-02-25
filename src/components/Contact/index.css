@@ -1,0 +1,175 @@
+
+.contact-top-div {
+  height: 170px;
+
+  margin-bottom: 3%;
+}
+.contact-second-div {
+  display:flex;
+  margin-left: 20%;
+  margin-bottom: 5%;
+}
+.word-contact {
+  margin-top: 20%;
+  margin-left: 20%;
+  font-size: 40px;
+  letter-spacing: 20px;
+  font-weight: 200;
+}
+.gvl {
+  font-size: 100px;
+  font-weight: 200;
+  letter-spacing: -7px;
+  margin-left: 15%;
+
+
+
+}
+
+
+
+
+
+.contact-greenville > p {
+  font-size: 17px;
+  font-weight: 300;
+  margin-left: 3%;
+}
+.contact-greenville {
+  border: solid;
+  border-width: thin;
+  width: 360px;
+  margin-right: 60px;
+  height: 134px;
+  margin-top: 40px;
+}
+input {
+  width: 400px;
+
+}
+.contactform {
+  margin-left: 60px;
+}
+input:focus {outline:0;}
+
+button:focus {outline:0;}
+.message-box {
+  padding-bottom: 70px;
+  margin-top: 20px;
+}
+button {
+  background-color: black;
+  color: white;
+
+}
+.mobile-contact-word > p {
+  font-size: 20px;
+  font-weight: 200;
+  letter-spacing: 10px;
+  text-align: center;
+  margin-top: 7%;
+
+
+}
+.mobile-contact-greenville {
+  border:solid;
+  border-width: thin;
+
+  margin-left: 10%;
+  margin-right:10%;
+  margin-top: 13%;
+
+}
+.mobile-contact-greenville > p {
+  font-size: 12px;
+  margin-left: 8%;
+
+
+}
+.mobile-contactform {
+  width: 100%;
+}
+.mobile-addressme {
+  margin-top: 5%;
+  margin-bottom: -1%;
+}
+.mobile-phoneme {
+
+}
+.mobile-infodiv {
+  margin-top: 10%;
+  width: 100%;
+}
+
+.mobile-input-box {
+  margin-top: 5%;
+  width: 80%;
+  margin-left: 10%;
+  border-top:none;
+  border-left: none;
+  border-right: none;
+
+}
+.mobile-contact-a {
+  margin-left: 8%;
+  font-size: 13px;
+
+}
+.mobilecontactpic {
+  text-align: center;
+}
+.mobilecontactpic > img {
+  width: 110px;
+  margin-top: 10%;
+}
+.mobile-message-box {
+  margin-top: 5%;
+  width: 80%;
+  margin-left: 10%;
+  border-top:none;
+  border-left:none;
+  border-right: none;
+
+}
+.the-button {
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.the-button:focus {outline:0;}
+.bottom-contact-div {
+  border-bottom: solid;
+  border-bottom-width:thin;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-bottom-color: #D5D5D5;
+  margin-top: 5%;
+  margin-bottom: 1%;
+}
+
+.formdiv {
+  display: flex;
+  flex-direction: column;
+
+}
+.input-box {
+  margin-top: 20px;
+}
+.total-contact {
+  display: flex;
+  justify-content: center;
+}
+.infodiv{
+  display: flex;
+  flex-direction: column;
+
+}
+.phoneme {
+  margin-top: -1.5%;
+}
+.emailme {
+  margin-top: -1.5%;
+}
+.addressme {
+  margin-top: 5%;
+
+}

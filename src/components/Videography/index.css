@@ -1,0 +1,52 @@
+iframe {
+ width: 40%;
+ height: 20rem;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ margin: 2%;
+
+}
+.videography-div {
+  display: flex;
+  justify-content: center;
+}
+.second-videography-div {
+  display: flex;
+  justify-content: center;
+}
+.top-videography-div {
+  height: 10rem;
+}
+.mobile-v-div > iframe {
+  width: 90%;
+  height: 200px;
+  margin-left: 5%;
+  margin-right: 5%;
+    margin-bottom: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.mobile-v-second > iframe {
+  width: 90%;
+  height: 200px;
+  margin-left: 5%;
+  margin-right: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 5%;
+}
+.mobile-v-third > iframe {
+  width: 90%;
+  height: 200px;
+  margin-left: 5%;
+  margin-right: 5%;
+    margin-bottom: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.mobile-v-four > iframe {
+  width: 90%;
+  height: 200px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
