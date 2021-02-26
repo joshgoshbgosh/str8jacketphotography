@@ -23,12 +23,12 @@ class App extends Component {
       <Menu/>
         <div className="App">
           <Switch>
-            <Route path='/#/'component={Home}  exact />
-            <Route path='/#/about'component={About}/>
-            <Route path='/#/contact'component={Contact}/>
-            <Route path='/#/gallery'component={Gallery}/>
-            <Route path='/#/photography'component={Photography}/>
-            <Route path='/#/videography'component={Videography}/>
+            <Route path='/'component={Home}  exact />
+            <Route path='/about'component={About}/>
+            <Route path='/contact'component={Contact}/>
+            <Route path='/gallery'component={Gallery}/>
+            <Route path='/photography'component={Photography}/>
+            <Route path='/videography'component={Videography}/>
           </Switch>
         </div>
       <Footer/>
