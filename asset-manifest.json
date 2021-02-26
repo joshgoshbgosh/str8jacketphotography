@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/str8jacketphotography/static/css/main.5e43455c.chunk.css",
-    "main.js": "/str8jacketphotography/static/js/main.9d8f2ee7.chunk.js",
-    "main.js.map": "/str8jacketphotography/static/js/main.9d8f2ee7.chunk.js.map",
+    "main.js": "/str8jacketphotography/static/js/main.e5933531.chunk.js",
+    "main.js.map": "/str8jacketphotography/static/js/main.e5933531.chunk.js.map",
     "runtime-main.js": "/str8jacketphotography/static/js/runtime-main.91685294.js",
     "runtime-main.js.map": "/str8jacketphotography/static/js/runtime-main.91685294.js.map",
     "static/css/2.150d169a.chunk.css": "/str8jacketphotography/static/css/2.150d169a.chunk.css",
@@ -74,6 +74,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.05d04dc0.chunk.js",
     "static/css/main.5e43455c.chunk.css",
-    "static/js/main.9d8f2ee7.chunk.js"
+    "static/js/main.e5933531.chunk.js"
   ]
 }
