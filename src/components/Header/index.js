@@ -17,8 +17,8 @@ function Header(props){
     <Navbar.Collapse id="responsive-navbar-nav" >
 
         <Nav>
-          <Nav.Link className="nav-link nav-home" href='/'>HOME</Nav.Link>
-          <Nav.Link className="nav-link nav-gallery" href='/gallery'>GALLERY</Nav.Link>
+          <NavLink className="nav-link nav-home" href='/'>HOME</NavLink>
+          <NavLink className="nav-link nav-gallery" href='/#/gallery'>GALLERY</NavLink>
         </Nav>
         <div className="logo">
         <a className="d-none d-md-block"href="/">
@@ -26,8 +26,8 @@ function Header(props){
         </a>
         </div>
         <Nav>
-          <Nav.Link className="nav-link nav-about" href='/about'>ABOUT</Nav.Link>
-          <Nav.Link className="nav-link nav-contact" href='/contact'>CONTACT</Nav.Link>
+          <NavLink className="nav-link nav-about" href='/#/about'>ABOUT</NavLink>
+          <NavLink className="nav-link nav-contact" href='/#/contact'>CONTACT</NavLink>
         </Nav>
 
 
