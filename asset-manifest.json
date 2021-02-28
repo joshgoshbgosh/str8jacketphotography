@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/str8jacketphotography/static/css/main.5e43455c.chunk.css",
-    "main.js": "/str8jacketphotography/static/js/main.6f8103b1.chunk.js",
-    "main.js.map": "/str8jacketphotography/static/js/main.6f8103b1.chunk.js.map",
+    "main.js": "/str8jacketphotography/static/js/main.c3e0032b.chunk.js",
+    "main.js.map": "/str8jacketphotography/static/js/main.c3e0032b.chunk.js.map",
     "runtime-main.js": "/str8jacketphotography/static/js/runtime-main.91685294.js",
     "runtime-main.js.map": "/str8jacketphotography/static/js/runtime-main.91685294.js.map",
     "static/css/2.150d169a.chunk.css": "/str8jacketphotography/static/css/2.150d169a.chunk.css",
-    "static/js/2.05d04dc0.chunk.js": "/str8jacketphotography/static/js/2.05d04dc0.chunk.js",
-    "static/js/2.05d04dc0.chunk.js.map": "/str8jacketphotography/static/js/2.05d04dc0.chunk.js.map",
+    "static/js/2.02ca3fe4.chunk.js": "/str8jacketphotography/static/js/2.02ca3fe4.chunk.js",
+    "static/js/2.02ca3fe4.chunk.js.map": "/str8jacketphotography/static/js/2.02ca3fe4.chunk.js.map",
     "static/js/3.a227cc12.chunk.js": "/str8jacketphotography/static/js/3.a227cc12.chunk.js",
     "static/js/3.a227cc12.chunk.js.map": "/str8jacketphotography/static/js/3.a227cc12.chunk.js.map",
     "index.html": "/str8jacketphotography/index.html",
     "static/css/2.150d169a.chunk.css.map": "/str8jacketphotography/static/css/2.150d169a.chunk.css.map",
     "static/css/main.5e43455c.chunk.css.map": "/str8jacketphotography/static/css/main.5e43455c.chunk.css.map",
-    "static/js/2.05d04dc0.chunk.js.LICENSE.txt": "/str8jacketphotography/static/js/2.05d04dc0.chunk.js.LICENSE.txt",
+    "static/js/2.02ca3fe4.chunk.js.LICENSE.txt": "/str8jacketphotography/static/js/2.02ca3fe4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/str8jacketphotography/static/media/videodiv.f09354ff.png",
     "static/media/g1.c824d829.jpg": "/str8jacketphotography/static/media/g1.c824d829.jpg",
     "static/media/g10.f6289ee9.jpg": "/str8jacketphotography/static/media/g10.f6289ee9.jpg",
@@ -72,8 +72,8 @@
   "entrypoints": [
     "static/js/runtime-main.91685294.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.05d04dc0.chunk.js",
+    "static/js/2.02ca3fe4.chunk.js",
     "static/css/main.5e43455c.chunk.css",
-    "static/js/main.6f8103b1.chunk.js"
+    "static/js/main.c3e0032b.chunk.js"
   ]
 }
