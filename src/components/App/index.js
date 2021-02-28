@@ -23,7 +23,7 @@ class App extends Component {
       <Menu/>
         <div className="App">
           <Switch>
-            <Route path='/'component={Home}  exact />
+            <Route path='/'component={Home} />
             <Route path='/about'component={About}/>
             <Route path='/contact'component={Contact}/>
             <Route path='/gallery'component={Gallery}/>
