@@ -82,7 +82,7 @@ margin-left: 9.4rem;
 .camera > img {
   width: 80px;
   height: auto;
-  opacity: 80%;
+  
   margin-top: 30px;
 }
 .camera {
@@ -109,14 +109,14 @@ margin-left: 9.4rem;
 .history {
   text-align: center;
   font-weight: 300;
-  opacity: 80%;
+
 }
 .mobile-p-div {
   width:90%;
   margin-left: 5%;
   border: solid black;
   border-width: thin;
-  opacity: 80%;
+
 }
 .mobile-p {
   margin-left: 6%;
