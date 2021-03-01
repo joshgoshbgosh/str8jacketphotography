@@ -17,17 +17,17 @@ function Header(props){
     <Navbar.Collapse id="responsive-navbar-nav" >
 
         <Nav>
-          <NavLink className="nav-link nav-home" href='/'>HOME</NavLink>
-          <NavLink className="nav-link nav-gallery" href='/#/gallery'>GALLERY</NavLink>
+          <NavLink className="nav-link nav-home" to='/'>HOME</NavLink>
+          <NavLink className="nav-link nav-gallery" to='/gallery'>GALLERY</NavLink>
         </Nav>
         <div className="logo">
-        <a className="d-none d-md-block"href="/">
+        <a className="d-none d-md-block"to="/">
         <Image src={str8jacket} rounded />
         </a>
         </div>
         <Nav>
-          <NavLink className="nav-link nav-about" href='/#/about'>ABOUT</NavLink>
-          <NavLink className="nav-link nav-contact" href='/#/contact'>CONTACT</NavLink>
+          <NavLink className="nav-link nav-about" to='/about'>ABOUT</NavLink>
+          <NavLink className="nav-link nav-contact" to='/contact'>CONTACT</NavLink>
         </Nav>
 
 
