@@ -167,6 +167,13 @@
   text-decoration: none;
   color: white;
 }
+.mobile-galdiv-atag{
+  display: flex;
+  justify-content: center;
+}
+.mobile-galdiv-atag:hover {
+  text-decoration: none;
+}
 .blankdiv {
   display: flex;
   justify-content: center;

@@ -21,9 +21,11 @@ function Header(props){
           <NavLink className="nav-link nav-gallery" to='/gallery'>GALLERY</NavLink>
         </Nav>
         <div className="logo">
-        <a className="d-none d-md-block"to="/">
+        <Nav className="logo">
+        <NavLink className="d-none d-md-block"to="/">
         <Image src={str8jacket} rounded />
-        </a>
+        </NavLink>
+        </Nav>
         </div>
         <Nav>
           <NavLink className="nav-link nav-about" to='/about'>ABOUT</NavLink>

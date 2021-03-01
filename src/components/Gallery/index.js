@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
-
+import Nav from 'react-bootstrap/Nav';
+import { NavLink } from 'react-router-dom';
 
 import './index.css';
 
@@ -36,28 +37,32 @@ class Gallery extends Component {
       </div>
       <div className="mobile-out-pic-div ">
       <div className="mobile-gal-div d-block d-sm-none">
-      <a className="mobil-galdiv-atag"to="/photography"><div className="mobile-photo-gal-div">
+      <Nav>
+      <NavLink className="mobile-galdiv-atag"to="/photography"><div className="mobile-photo-gal-div">
         <p className="mobile-pic-gal-div">PHOTOGRAPHY</p>
-      </div></a>
+      </div></NavLink></Nav>
       </div>
       </div>
 
       <div className="mobile-out-div ">
       <div className="mobile-gal-vid-div d-block d-sm-none">
-      <a className="galdiv-atag"to="/videography"><div className="mobile-video-div">
+      <Nav className="mobile-galdiv-atag">
+      <NavLink className="mobile-galdiv-atag"to="/videography"><div className="mobile-video-div">
         <p classname="mobile-video-div">VIDEOGRAPHY</p>
-      </div></a>
+      </div></NavLink></Nav>
       </div>
       </div>
 
       <div className=" extra-div d-none d-md-block">
       <div className="galdiv">
-        <a className="galdiv-atag"to="/photography"><div className="photo-gal-div">
+        <Nav>
+        <NavLink className="galdiv-atag"to="/photography"><div className="photo-gal-div">
           <p className="pic-gal-div">PHOTOGRAPHY</p>
-        </div></a>
-        <a className="galdiv-atag"to="/videography"><div className="video-div">
+        </div></NavLink></Nav>
+        <Nav>
+        <NavLink className="galdiv-atag"to="/videography"><div className="video-div">
           <p classname="video-div">VIDEOGRAPHY</p>
-        </div></a>
+        </div></NavLink></Nav>
       </div>
       </div>
       <div className="bottomgal d-none d-md-block">

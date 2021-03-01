@@ -145,7 +145,7 @@ div.mobile-preload-images {
   font-weight: 100;
   font-size: 14px;
   letter-spacing: 1px;
-  
+
 }
 .josh-div > a {
   font-weight: lighter;
@@ -283,11 +283,11 @@ div.mobile-preload-images {
   color: #7A1D00;
 }
 
-.left-box > a:hover {
+.vlink:hover {
   text-decoration: none;
 
 }
-.right-box > a:hover {
+.NavLink:hover {
   text-decoration: none;
 
 }

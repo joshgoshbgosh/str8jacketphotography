@@ -1,9 +1,9 @@
-.nav-menu {
+.mob-menu {
   display: flex;
   justify-content: space-around;
 
 }
-.nav-menu > a {
+.moblink {
   color: black;
   font-weight: 100;
   font-family: sans-serif;
@@ -12,11 +12,11 @@
   letter-spacing: 2px;
 
 }
-.nav-menu > a:hover {
+.moblink:hover {
   text-decoration: none;
   color:black;
 }
-.nav-menu > a > img {
+.moblink > img {
   margin-top: -2.1rem;
   width: 80px;
 

@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
+import Nav from 'react-bootstrap/Nav';
 import './index.css';
 import homepage  from './../../images/homepage.jpg';
 import homepage2 from './../../images/homepage2.jpg';
@@ -48,28 +50,28 @@ class Home extends Component {
         events, family portraits, modeling, musicians, bands, and live shows.  If you feel a connection
         with my work, let's talk.
         </p>
-        <a to="/contact">GET IN TOUCH</a>
+        <Nav className="josh-div"><NavLink to="/contact">GET IN TOUCH</NavLink></Nav>
       </div>
       <div className="photo-strip">
 
 
 
         <div className="left-box d-none d-md-block">
-          <a to="/photography"><div className="left-photo-box">
+          <Nav><NavLink className="vlink"to="/photography"><div className="left-photo-box">
           <p className="photo-text">
           PHOTOGRAPHY
           </p>
           <p className="seemore">SEE MORE</p>
-          </div></a>
+          </div></NavLink></Nav>
         </div>
 
         <div className="right-box d-none d-md-block">
-          <a to="/videography"><div className="right-photo-box">
+          <Nav><NavLink className="vlink"to="/videography"><div className="right-photo-box">
           <p className="video-text">
           VIDEOGRAPHY
           </p>
           <p className="seemore-two">SEE MORE</p>
-          </div></a>
+          </div></NavLink></Nav>
         </div>
         </div>
       <div className="socialmedia">

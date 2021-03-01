@@ -3,6 +3,8 @@ import {Link} from 'react-router-dom';
 import './index.css';
 import josh from './../../images/josh.jpg';
 import aboutbottom from './../../images/aboutbottom.png';
+import Nav from 'react-bootstrap/Nav';
+import { NavLink } from 'react-router-dom';
 class About extends Component {
 
 
@@ -36,7 +38,7 @@ class About extends Component {
              <p className="short-bio">
              Josh Lanier is a photographer based out of Greenville, SC.  He loves working with natural light to
              capture all the best moments and bringing the imagination of what is visualized to life. You will find him at a
-             local coffee shop working on edits and enjoying a cup of coffee. <a className="short-a" to="/contact">Contact Now</a>
+             local coffee shop working on edits and enjoying a cup of coffee. <Nav className="short-a"><NavLink className="short-a" to="/contact">Contact Now</NavLink></Nav>
 
              </p>
           </div>
