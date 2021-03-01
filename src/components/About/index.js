@@ -75,7 +75,7 @@ class About extends Component {
           </div>
 
         </div>
-        <div className="camera ">
+        <div className="camera d-none d-md-block">
         <img src={aboutbottom}/>
         </div>
       </div>

@@ -82,12 +82,13 @@ margin-left: 9.4rem;
 .camera > img {
   width: 80px;
   height: auto;
-  
+
   margin-top: 30px;
 }
 .camera {
   display: flex;
   justify-content: center;
+  text-align: center;
 
 }
 .mobile-left-photo > img {
@@ -119,12 +120,13 @@ margin-left: 9.4rem;
 
 }
 .mobile-p {
+  color:black;
   margin-left: 6%;
   margin-top: 5%;
   font-size: 12px;
   letter-spacing: 1px;
   width: 90%;
-  font-weight: 100;
+  font-weight: 400;
 }
 .mobile-left-photo {
   margin-right: 3%;
