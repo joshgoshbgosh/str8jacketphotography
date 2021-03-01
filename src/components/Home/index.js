@@ -48,14 +48,14 @@ class Home extends Component {
         events, family portraits, modeling, musicians, bands, and live shows.  If you feel a connection
         with my work, let's talk.
         </p>
-        <a href="mailto:str8jacketphotography@gmail.com">GET IN TOUCH</a>
+        <a to="/contact">GET IN TOUCH</a>
       </div>
       <div className="photo-strip">
 
 
 
         <div className="left-box d-none d-md-block">
-          <a href="/#/photography"><div className="left-photo-box">
+          <a to="/photography"><div className="left-photo-box">
           <p className="photo-text">
           PHOTOGRAPHY
           </p>
@@ -64,7 +64,7 @@ class Home extends Component {
         </div>
 
         <div className="right-box d-none d-md-block">
-          <a href="/#/videography"><div className="right-photo-box">
+          <a to="/videography"><div className="right-photo-box">
           <p className="video-text">
           VIDEOGRAPHY
           </p>

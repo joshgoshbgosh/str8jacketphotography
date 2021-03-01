@@ -10,10 +10,10 @@ class Menu extends Component {
       <div>
       <div className="d-block d-sm-none">
       <div className="nav-menu">
-       <a href="/"><img src={str8jacket}/></a>
-       <a href="/gallery">GALLERY</a>
-       <a href="/about">ABOUT</a>
-       <a href="/contact">CONTACT</a>
+       <a to="/"><img src={str8jacket}/></a>
+       <a to="/gallery">GALLERY</a>
+       <a to="/about">ABOUT</a>
+       <a to="/contact">CONTACT</a>
        </div>
       </div>
       </div>

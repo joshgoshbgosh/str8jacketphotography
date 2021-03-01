@@ -36,7 +36,7 @@ class Gallery extends Component {
       </div>
       <div className="mobile-out-pic-div ">
       <div className="mobile-gal-div d-block d-sm-none">
-      <a className="mobil-galdiv-atag"href="/photography"><div className="mobile-photo-gal-div">
+      <a className="mobil-galdiv-atag"to="/photography"><div className="mobile-photo-gal-div">
         <p className="mobile-pic-gal-div">PHOTOGRAPHY</p>
       </div></a>
       </div>
@@ -44,7 +44,7 @@ class Gallery extends Component {
 
       <div className="mobile-out-div ">
       <div className="mobile-gal-vid-div d-block d-sm-none">
-      <a className="galdiv-atag"href="/videography"><div className="mobile-video-div">
+      <a className="galdiv-atag"to="/videography"><div className="mobile-video-div">
         <p classname="mobile-video-div">VIDEOGRAPHY</p>
       </div></a>
       </div>
@@ -52,10 +52,10 @@ class Gallery extends Component {
 
       <div className=" extra-div d-none d-md-block">
       <div className="galdiv">
-        <a className="galdiv-atag"href="/photography"><div className="photo-gal-div">
+        <a className="galdiv-atag"to="/photography"><div className="photo-gal-div">
           <p className="pic-gal-div">PHOTOGRAPHY</p>
         </div></a>
-        <a className="galdiv-atag"href="/videography"><div className="video-div">
+        <a className="galdiv-atag"to="/videography"><div className="video-div">
           <p classname="video-div">VIDEOGRAPHY</p>
         </div></a>
       </div>

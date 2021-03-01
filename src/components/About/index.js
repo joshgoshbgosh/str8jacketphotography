@@ -36,7 +36,7 @@ class About extends Component {
              <p className="short-bio">
              Josh Lanier is a photographer based out of Greenville, SC.  He loves working with natural light to
              capture all the best moments and bringing the imagination of what is visualized to life. You will find him at a
-             local coffee shop working on edits and enjoying a cup of coffee. <a className="short-a" href="mailto:str8jacketphotography@gmail.com">Contact Now</a>
+             local coffee shop working on edits and enjoying a cup of coffee. <a className="short-a" to="/contact">Contact Now</a>
 
              </p>
           </div>
